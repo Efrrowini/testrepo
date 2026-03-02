@@ -1,11 +1,13 @@
 # testrepo
 ## editing the file
+
 its a markdown file in this repository.
+
+
 #include <stdio.h>
 #include <conio.h>
 #include <time.h>
-
-// Linear Search Function
+Linear Search Function
 int linearSearch(int a[], int n, int key) {
     int i;
     for(i=0; i<n; i++) {
